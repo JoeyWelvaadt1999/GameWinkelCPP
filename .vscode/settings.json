@@ -1,0 +1,18 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "xstring": "cpp",
+        "list": "cpp",
+        "xutility": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\Opdrachten\\FA1",
+            "binaryPath": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\Opdrachten\\FA1\\main",
+            "binaryArgs": []
+        }
+    ]
+}
